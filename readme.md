@@ -7,7 +7,6 @@ O RocketQ é uma aplicação que permite o usário criar salas e dentro das sala
 
 
 ## Instalação
-------
 O gerenciador de pacotes utilizado foi o yarn.
 
 Para instalar o yarn clique [aqui](https://classic.yarnpkg.com/en/docs/install)
@@ -66,7 +65,6 @@ Obrigado!!!
 
 
 ## Contato
-----
 
 Para mais informações ou dúvidas basta apenas entrar em contato
 
