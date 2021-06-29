@@ -6,7 +6,7 @@ Trilha Discover
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para usuários anônimos fazerem perguntas e o criador da sala, com uma senha pode gerenciar essas perguntas e marcar como lidas.
 
 ## :technologist:   Tecnologias Utilizadas 
-+ HTML
+- HTML
 - CSS
 - JavaScript
 - Node
