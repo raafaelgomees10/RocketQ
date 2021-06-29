@@ -3,7 +3,16 @@ Projeto desenvolvido durante a Next Level Week da Rocketset :rocket:
 
 Trilha Discover
 
-O RocketQ é uma aplicação que permite o usário criar salas e dentro das salas criar perguntas podendo marcar perguntas como lida ou exclui-las 
+O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para usuários anônimos fazerem perguntas e o criador da sala, com uma senha pode gerenciar essas perguntas e marcar como lidas.
+
+## :technologist:   Tecnologias Utilizadas 
++ HTML
+- CSS
+- JavaScript
+- Node
+- Ejs
+- Express
+- SQLite
 
 
 ## Instalação
