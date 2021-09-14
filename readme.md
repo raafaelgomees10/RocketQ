@@ -27,27 +27,10 @@ yarn start -y
 
 Com yarn inicializado no projeto vamos instalar as dependências
 
-1. Primeiro adicionamos o express
+1. Abra o terminal na pasta do projeto e digite: 
 
 ```
-yarn add express 
-```
-
-2. Adicionamos tambem o nodemon como dependência de desenvolvimento  
-```
-yarn add nodemon -D
-```
-
-3. Em seguida o EJS
-```
-yarn add ejs 
-```
-
-4. E por ultimo o banco de dados  SQLite, lembrando que são duas dependências conforme abaixo
-```
-yarn add sqlite
-
-yarn add sqlite3 
+yarn 
 ```
 
 
